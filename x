@@ -178,5 +178,95 @@
         "title": "Vesper (2022)",
         "link": "http:\/\/mycinema.asia\/video\/13681",
         "img": "http:\/\/mycinema.asia\/image\/\/20221228\/avatar_13681.jpg"
+    },
+ {
+        "title": "        The Eternal Daughter (2022)        2705       ",
+        "link": "http:\/\/mycinema.asia\/video\/13670",
+        "img": "http:\/\/mycinema.asia\/image\/\/20221227\/avatar_13670.jpg"
+    },
+    {
+        "title": "        Avatar: The Way of Water (2022)        22874       ",
+        "link": "http:\/\/mycinema.asia\/video\/13666",
+        "img": "http:\/\/mycinema.asia\/image\/\/20221227\/avatar_13666.jpg"
+    },
+    {
+        "title": "        Under Wraps 2 (2022)        5172       ",
+        "link": "http:\/\/mycinema.asia\/video\/13621",
+        "img": "http:\/\/mycinema.asia\/image\/\/20221224\/avatar_13621.jpg"
+    },
+    {
+        "title": "        Tom and Jerry Snowman\u2019s Land (2022)        13076       ",
+        "link": "http:\/\/mycinema.asia\/video\/13601",
+        "img": "http:\/\/mycinema.asia\/image\/\/20221223\/avatar_13601.jpg"
+    },
+    {
+        "title": "        Tiny Cinema (2022)        3934       ",
+        "link": "http:\/\/mycinema.asia\/video\/13581",
+        "img": "http:\/\/mycinema.asia\/image\/\/20221222\/avatar_13581.jpg"
+    },
+    {
+        "title": "        Three Thousand Years of Longing (2022)        4443       ",
+        "link": "http:\/\/mycinema.asia\/video\/13569",
+        "img": "http:\/\/mycinema.asia\/image\/\/20221221\/avatar_13569.jpg"
+    },
+    {
+        "title": "        The Woman King (2022)        7195       ",
+        "link": "http:\/\/mycinema.asia\/video\/13565",
+        "img": "http:\/\/mycinema.asia\/image\/\/20221221\/avatar_13565.jpg"
+    },
+    {
+        "title": "        The Soccer Football Movie (2022)        7481       ",
+        "link": "http:\/\/mycinema.asia\/video\/13554",
+        "img": "http:\/\/mycinema.asia\/image\/\/20221220\/avatar_13554.jpg"
+    },
+    {
+        "title": "        Emancipation (2022)        5809       ",
+        "link": "http:\/\/mycinema.asia\/video\/13549",
+        "img": "http:\/\/mycinema.asia\/image\/\/20221220\/avatar_13549.jpg"
+    },
+    {
+        "title": "        Christmas Bloody Christmas (2022)        3580       ",
+        "link": "http:\/\/mycinema.asia\/video\/13545",
+        "img": "http:\/\/mycinema.asia\/image\/\/20221220\/avatar_13545.jpg"
+    },
+    {
+        "title": "        The Good Nurse (2022)        3399       ",
+        "link": "http:\/\/mycinema.asia\/video\/13469",
+        "img": "http:\/\/mycinema.asia\/image\/\/20221214\/avatar_13469.jpg"
+    },
+    {
+        "title": "        The Curse of Bridge Hollow (2022)        3446       ",
+        "link": "http:\/\/mycinema.asia\/video\/13465",
+        "img": "http:\/\/mycinema.asia\/image\/\/20221214\/avatar_13465.jpg"
+    },
+    {
+        "title": "        The Chalk Line (2022)        2509       ",
+        "link": "http:\/\/mycinema.asia\/video\/13461",
+        "img": "http:\/\/mycinema.asia\/image\/\/20221214\/avatar_13461.jpg"
+    },
+    {
+        "title": "        The Boss Baby: Christmas Bonus (2022)        7616       ",
+        "link": "http:\/\/mycinema.asia\/video\/13457",
+        "img": "http:\/\/mycinema.asia\/image\/\/20221213\/avatar_13457.jpg"
+    },
+    {
+        "title": "        Slumberland (2022)        2698       ",
+        "link": "http:\/\/mycinema.asia\/video\/13453",
+        "img": "http:\/\/mycinema.asia\/image\/\/20221213\/avatar_13453.jpg"
+    },
+    {
+        "title": "        Significant Other (2022)        3456       ",
+        "link": "http:\/\/mycinema.asia\/video\/13449",
+        "img": "http:\/\/mycinema.asia\/image\/\/20221213\/avatar_13449.jpg"
+    },
+    {
+        "title": "        Scrooge: A Christmas Carol (2022)        2983       ",
+        "link": "http:\/\/mycinema.asia\/video\/13445",
+        "img": "http:\/\/mycinema.asia\/image\/\/20221213\/avatar_13445.jpg"
+    },
+    {
+        "title": "        Monster (2022)        5344       ",
+        "link": "http:\/\/mycinema.asia\/video\/13441",
+        "img": "http:\/\/mycinema.asia\/image\/\/20221213\/avatar_13441.jpg"
     }
 ]
